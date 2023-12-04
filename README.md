@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**miraiy-outh/miraiy-outh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello 👋, I`m Veronika</h1>
+<hr>
+<h3 align="center">Frontend developer</h3>
 
 Here are some ideas to get you started:
 
