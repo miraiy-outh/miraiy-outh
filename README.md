@@ -2,4 +2,4 @@
 <h3 align="center">Frontend developer</h3>
 
 - 🌱 I’m currently learning React, Typescript, Redux
-- 📫 How to reach me: tg @ThTheTh
+- 📫 How to reach me: tg <a src="https://t.me/ThTheTh">@ThTheTh</a>
