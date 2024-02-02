@@ -4,7 +4,7 @@
 <li>🌱 I’m currently learning <b>React, Typescript, Redux</b></li>
 <li>📫 How to reach me: 
 	<a href="https://t.me/ThTheTh"> <img height="16" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
-	<a href="https://vk.com/8bit_isa_byte"> <img height="16" src="[https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)" /> </a>
+	<a href="https://vk.com/8bit_isa_byte"> <img height="16" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 </li>
 </ul>
 <h2 align="left">Languages and Tools</h3>
