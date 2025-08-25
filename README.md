@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I`m Veronika</h1>
 <h3 align="center">Frontend developer</h3>
 <ul>
-<li>🌱 I’m currently learning <b>React, Typescript, Redux</b></li>
+<li>🌱 My Stack: <b>React, Typescript, Redux, Redux Toolkit, RTK Query</b></li>
 <li>📫 How to reach me: 
 	<a href="https://t.me/ThTheTh"> <img height="16" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 	<a href="https://vk.com/8bit_isa_byte"> <img height="16" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /> </a>
